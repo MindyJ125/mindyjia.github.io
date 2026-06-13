@@ -3,7 +3,7 @@ layout: page
 title: Communicative Efficiency of Non-compositional Language
 description: NLP and data processing pipeline analyzing processing ease, semantic transparency, and frequency metrics across large-scale English and Mandarin text corpora
 img: assets/img/nlp_linguistics.jpg
-importance: 1
+importance: 2
 category:
 ---
 
