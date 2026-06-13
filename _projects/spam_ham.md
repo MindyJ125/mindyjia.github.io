@@ -3,7 +3,7 @@ layout: page
 title: Spam/Ham Email Classifier
 description: NLP-based binary classifier distinguishing spam from legitimate emails using feature engineering, logistic regression, and cross-validation
 img: assets/img/spam_ham.jpg
-importance: 2
+importance: 3
 category:
 ---
 
